@@ -11,8 +11,8 @@
 * **Periodo Académico:** Noviembre 2026
 
 ## 👥 Integrantes (Equipo de Desarrollo Scrum)
-* **Carlos Adolfo Granados Camargo** (Ingeniería de Sistemas)
-* **Luisa Fernanda Pérez Meza** (Ingeniería de Sistemas)
+* **Carlos Adolfo Granados Camargo** (Ingenieria de Sistemas)
+* **Luisa Fernanda Pérez Meza** (Ingenieria de Sistemas)
 * **Tutor del Curso:** Daniel Andrés Guzmán Arevalo
 
 ---
